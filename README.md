@@ -1,6 +1,8 @@
 1. MAKE REPO, upload html and css files.
 2. create a codespace, download live server extension
-3. 
+3. start editing
+4. source control -> check changes, write a commit message, commit changes, sync changes
+5. pray to god.
 
 
 important :
